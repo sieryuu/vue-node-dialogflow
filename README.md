@@ -9,7 +9,7 @@
 - Go to [DialogFlow][dfweb] to create your project.
 - Complete [DialogFlow][df] API & [Text-to-Speech][tts] "Before you begin" section ([this][t1] & [this][t2]). (On the step 4, make sure you click the "GO TO THE CREATE SERVICE ACCOUNT KEY PAGE" button and choose the Project then download the JSON file.)
 - Change you `projectId` in build/dev-server.js to your own `projectId`
-### Or using my Google Application Credentials (fast setup)
+### Or using my Google Application Credentials (fast setup) [Not working!, because sharing my API key is not allowed]
 - Create a JSON file <example.json> (anywhere)
 - Copy and paste below text into the JSON file you have created.
 
